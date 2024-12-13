@@ -37,7 +37,7 @@ OntoViewer Toolkit can be run with a few different goals that are described belo
 
 ```bash
 java -jar onto-viewer-toolkit.jar \
-    --goal consitency-check \
+    --goal consistency-check \
     --data my-ontology.rdf \
     --output consitency-check-result.txt
 ```
